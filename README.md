@@ -1,5 +1,7 @@
-# TECHY-BIRDS
-This mini project is done by, 22CS012 22CS002 - Aditya Pomal 22CS035 - Shail Macwan
+*****Area and Perimeter Calculator******
+
+This is a simple calculator that can calculate the area and perimeter of various shapes, including rectangles, circles, and triangles.
+
 
 This is simple BMI calculator.
 
